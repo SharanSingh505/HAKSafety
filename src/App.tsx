@@ -12,11 +12,11 @@ function App() {
             <div style={{"backgroundColor": "#bee3f8"}}>
                 <Heading pt={8} pb={1} bg="#bee3f8">
                     <Center mb={3}>
-                        <img src="old-logo.png" width="70" alt="Hackathon Logo"/>
+                        <img src="MentalHealth.png" width="100" alt="Hackathon Logo"/>
                     </Center>
                     <p>Mindset Miners</p>
                 </Heading>
-                <Container pb={5} bg="#bee3f8">Search for a .</Container>
+                <Container pb={8} bg="#bee3f8">Find the perfect solution for your mental health needs.</Container>
             </div>
             <Divider orientation='horizontal' borderWidth={3} borderColor = "#2055A1"/>
             <SearchBar></SearchBar>
