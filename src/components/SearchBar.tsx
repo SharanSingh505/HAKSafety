@@ -6,7 +6,7 @@ export function SearchBar(): JSX.Element {
     return(
 
         <div style={{ padding: "30px 30px 40px 0" }}>
-            <Input placeholder="Type your problem here" style={{ width: "600px" }} />
+            <Input placeholder="Type your problem here" style={{ width: "00px" }} />
         </div>
 
     /*
